@@ -6,6 +6,8 @@
 /tmp
 /out-tsc
 /out
+/dev
+/demo
 
 # dependencies
 /node_modules
